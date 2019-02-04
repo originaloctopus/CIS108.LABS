@@ -1,0 +1,2 @@
+﻿  Exercise2.cpp
+c:\users\jerem\source\repos\cis108_labs_and_homework\lab 1\cis100_lab1\exercise2\exercise2.cpp(23): error C4700: uninitialized local variable 'age' used
